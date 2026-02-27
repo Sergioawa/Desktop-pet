@@ -14,3 +14,6 @@ Welcome to this desktop pet program featuring Kazuha. This program is developed 
 3. Supports changing the image switching time.
 4. This program is still in the early development testing phase(Those who understand, understand. Hehe.), and many features are not yet complete. If you have good ideas or find issues with the program, you are welcome to submit your modified code to the repository.
 Additionally, in theory, as long as you replace the files in the img and voice folders following the file standards I mentioned with your favorite character's images and voices, this program can become your very own desktop pet.
+
+执行程序前（main.py）您还要拥有Python环境，并在命令行运行“pip install Pillow httplib2”命令。
+Before running the program (main.py), you need to have a Python environment and run the command 'pip install Pillow httplib2' in the command line.
